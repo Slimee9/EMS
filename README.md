@@ -1,5 +1,6 @@
-# React + Vite
 Employee Management System (EMS) 🏢💼  
+
+# React + Vite(Project)
 The Employee Management System (EMS) is a comprehensive and efficient solution designed to simplify and streamline workforce management. This project offers tools for task allocation, performance tracking, and seamless communication between employees and administrators, all in one intuitive platform.
 
 ✨ Features
